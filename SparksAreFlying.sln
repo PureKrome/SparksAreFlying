@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparksAreFlying.WebApi", "src\SparksAreFlying.WebApi\SparksAreFlying.WebApi.csproj", "{76F3C80F-888E-4AD1-920A-F417DD4E7C97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparksAreFlying.Services", "src\SparksAreFlying.Services\SparksAreFlying.Services.csproj", "{D95E6BF7-8FF8-425D-AC82-6B9C2723C510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6B187BF-B725-4253-AA93-ABEDFC3630D4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		global.json = global.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F3C80F-888E-4AD1-920A-F417DD4E7C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F3C80F-888E-4AD1-920A-F417DD4E7C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F3C80F-888E-4AD1-920A-F417DD4E7C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F3C80F-888E-4AD1-920A-F417DD4E7C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95E6BF7-8FF8-425D-AC82-6B9C2723C510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95E6BF7-8FF8-425D-AC82-6B9C2723C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95E6BF7-8FF8-425D-AC82-6B9C2723C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95E6BF7-8FF8-425D-AC82-6B9C2723C510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F72C2936-6CAF-4328-B32A-B56A78B69E41}
+	EndGlobalSection
+EndGlobal
